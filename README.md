@@ -1,7 +1,16 @@
+```
 Hi there, I’m Domiziano!
 
-Usually, I’m doing some web dev stuff for personal enjoyment 💻 or some machine learning sorcery 🧙‍♂️.
+I'm a Computer Scientist & Data Scientist, but sometimes also Runner.
 
-If you’re curious to see what I’ve been up to, check out my [portfolio](https://www.domiziano.cc)! ✨
+01 Master's in CS @ Sapienza University (110/110 with honors).
+02 Currently working as a Data Scientist @ Prima Assicurazioni (since June 2025).
+03 Privacy-focused, data obsessed & self-hosting nerd.
+04 Building whatever comes in my mind
+05 nvim btw.
+```
 
-[Email](mailto:scarcelli.domiziano@gmail.com) • [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) • [StackOverflow](https://stackoverflow.com/users/10421242/domiziano-scarcelli)
+[domiziano.cc](https://www.domiziano.cc) | [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/)
+
+
+
