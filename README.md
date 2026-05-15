@@ -1,7 +1,7 @@
 ```
 Hi there, I’m Domiziano!
 
-I'm a Computer Scientist & Data Scientist, but sometimes also Runner.
+I'm a Computer Scientist & Data Scientist, but sometimes also a Runner.
 
 01 Master's in CS @ La Sapienza University of Rome.
 02 Currently working as a Data Scientist @ Prima Assicurazioni.
