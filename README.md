@@ -11,7 +11,7 @@ I'm a Computer Scientist & Data Scientist, but sometimes also a Runner.
 06 nvim btw.
 ```
 
-[domiziano.cc](https://www.domiziano.cc) | [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/)
+[domiziano.cc](https://www.domiziano.cc) | [LinkedIn](https://www.linkedin.com/in/domiziano-scarcelli/) | [Old Profile](https://github.com/domizianooo)
 
 
 
